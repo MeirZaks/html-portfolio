@@ -1,2 +1,2 @@
-# html-portfolio
+# HTML-and-CSS-portfolio
 My Portfolio
